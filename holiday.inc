@@ -14,8 +14,8 @@ define_tag('leapyear',-required='year', -type='integer',
 /define_tag;
 
 define_tag('holiday',
-    -required='ordinal', -type='integer', // 1=first,...5=fifth, -1=last
-    -required='dayofweek', -type='integer', // 1=Sunday,..., 7=Saturday
+    -required='ordinal', -type='integer', // 1=first, ..., 5=fifth, -1=last
+    -required='dayofweek', -type='integer', // 1=Sunday, ..., 7=Saturday
     -optional='month', -type='integer', // number of month, default is current month
     -optional='year', -type='integer', // default is current year
     -optional='next', // returns the next occurrence
