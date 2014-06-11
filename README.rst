@@ -3,7 +3,7 @@ Holiday - Lasso 8 Custom Tag Determines the Nth Day of the Week
 
 Read the article `Holiday - Lasso 8 Custom Tag Determines the Nth Day of
 the Week
-<http://www.stevepiercy.com/holiday-lasso-8-custom-tag-determines-the-nth-day-of-the-week.html>`_.
+<http://www.stevepiercy.com/articles/holiday-lasso-8-custom-tag-determines-the-nth-day-of-the-week/>`_.
 
 Description
 ===========
