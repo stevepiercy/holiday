@@ -3,8 +3,15 @@
 // in server or site library, or include it.  Choose one method.
 // I recommend site startup.
 // include('holiday.inc'); // optional loading method
-]
-[include('/lasso/_inc/_top.inc')]
+]<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>holiday by Steve Piercy</title>
+</head>
+<body>
+<h1>holiday by Steve Piercy</h1>
+
     <p>Enter values for each field.</p>
     <p>If you leave either <em>month</em> or <em>year</em> blank, their default values will be set to the current month or year, respectively.</p>
     <p>If you check <em>Next</em>, then the next ordinal/dayofweek for the month and year will be returned.</p>
@@ -69,4 +76,5 @@ if(action_param('submit') != '');
 <p>
 <a href="http://www.stevepiercy.com/holiday-lasso-8-custom-tag-determines-the-nth-day-of-the-week.html">Read the article Holiday - Lasso 8 Custom Tag Determines the Nth Day of the Week</a> for more examples.
 </p>
-[include('/lasso/_inc/_bottom.inc')]
+</body>
+</html>
