@@ -1,8 +1,8 @@
 [
-// Either load the file holiday.inc during server or site startup,
+// Either load the file holiday.lasso during server or site startup,
 // in server or site library, or include it.  Choose one method.
 // I recommend site startup.
-// include('holiday.inc'); // optional loading method
+// include('holiday.lasso'); // optional loading method
 ]<!DOCTYPE html>
 <html>
 <head>
